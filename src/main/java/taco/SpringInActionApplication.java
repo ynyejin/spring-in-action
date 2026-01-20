@@ -1,4 +1,4 @@
-package com.example.spring_in_action;
+package taco;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
